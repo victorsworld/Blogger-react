@@ -1,0 +1,50 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 20px;
+}
+
+.Form {
+  width: 400px;
+  margin-right: 20px;
+}
+
+.Form h2 {
+  margin-bottom: 10px;
+}
+
+.Form form {
+  display: flex;
+  flex-direction: column;
+}
+
+.Form input,
+.Form textarea {
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+
+.Card {
+  width: 200px;
+  padding: 5px;
+  margin: 5px;
+  border: 1px solid black;
+}
+
+.Card h3 {
+  margin-top: 0;
+}
+
+.Card p {
+  margin: 5px 0;
+}
+
+.Card button {
+  padding: 5px 10px;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+
